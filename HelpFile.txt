@@ -1,0 +1,22 @@
+**************************           HELP           **************************
+This is the help file. 
+There's not much here, yet, because the game is incomplete.
+
+The following commands are currently available:
+
+	help		-	This help file.
+	lusers		-	List all users currently connected.
+	quit!		-	Disconnect from the server.
+	chist		-	Show chat history.
+	say			-	Broadcast message to local users.
+
+More commands are coming soon. Until then, you can use this as a CLI chat-
+room, just type whatever you want to say.
+
+For more information, please visit our website:
+http://brk.thereifpages.net
+
+You can also email me at:
+gary@reifpages.net
+
+**************************        Thank you!        **************************

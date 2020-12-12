@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RoomData name="TestRoom2">
+  <Description name="RoomDescription">This is the description of the room. Players will see this description when they enter a room.</Description>
+  <Description name="AlternateDescription1">This is an optional description that reflects any changes made to the environment during the course of gameplay.</Description>
+  <EXIT name="North" leadsto="TestRoom1" description="There is an exit to the (N)orth"/>
+</RoomData>
